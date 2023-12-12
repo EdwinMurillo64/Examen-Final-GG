@@ -1,0 +1,107 @@
+:root{
+	--f7-theme-color:#c61f42;
+	--f7-navbar-bg-color: #8c182d; /*navbar*/
+	--f7-navbar-link-color: #e32026; /*navbar link*/
+	--f7-navbar-text-color:#7C899F;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+.title{
+	color: #FFFFFF;
+}
+
+.panel-cover{
+	background-color: #c61f42;
+}
+
+#main .block-header{
+	background-color: #8c182d;
+	color: white;
+	padding: 10px;
+}
+
+#main .block-header a{
+	color: #DD8A01;
+	text-align: right;
+}
+
+ul{
+	list-style: none !important;
+	margin: 0px;
+	padding: 0px;
+}
+
+.media-list li{
+	color: #FFFFFF;
+	background-color: #DD8A01;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.media-list ul{
+	background-color: #c61f42;
+}
+
+.card-producto{
+	padding: 10px;
+	text-align: center;
+}
+
+.info{
+	padding: 20px;
+}
+
+.counter{
+	text-align: center;
+	margin: 20px;
+}
+
+.btn{
+	padding: 10px;
+	background-color: #c61f42;
+	color: #FFFFFF;
+	border-radius: 20px;
+	font-size: 20px;
+}
+
+.profile img{
+	border-radius: 100px;;
+}
+
+.profile{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
